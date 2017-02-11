@@ -1,10 +1,15 @@
 # RatingView
 Usage:
  let ratingV = RatingView()
+ 
  ratingV.text = "4.5+"
+ 
  ratingV.cornerRadius = 8.0
+ 
  ratingV.updateUIElements()
+ 
  ratingV.frame = CGRect(x: 30, y: 230.0, width: ratingV.viewWidth, height: 16.0)
+ 
  self.view.addSubview(ratingV)
  
  
