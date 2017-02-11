@@ -3,7 +3,7 @@
 //  etmoneyios
 //
 //  Created by Devanshu Saini on 27/12/16.
-//  Copyright © 2017 Devanshu Saini. All rights reserved.
+//  Copyright © 2017 Devanshu Saini devanshu2@gmail.com. All rights reserved.
 //
 
 import UIKit
